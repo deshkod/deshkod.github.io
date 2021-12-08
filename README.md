@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-Screenshot_2021-12-05-14-18-41-015.jpeg
+https://github.com/deshkod/deshkod.github.io/blob/c750704a47397dd0479a81f8de4078990dc3e644/Screenshot_2021-12-05-14-18-41-015.jpeg
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
